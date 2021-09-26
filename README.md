@@ -8,13 +8,3 @@ A simplified python program for generating valid bip39 palindromic mnemonics, us
 Formula: Initial entropy in bits /32 = checksum length in bits
 initial entropy mod 11 = remaining bits + checksum = last word
 Initial entropy + checksum = total bits /11 = total words.
-
-
-Donations:
-```
-BTC : 32rc2mZ8mb4feHiMKTwBjZoPTuBtS7ZJ99
-LTC : MKzsA3LepnirppLm1ecu6EKGGa84bTU8jj
-ETH : 0xdDa3f78891ddBA5F3cf8476716df8e0fa328418d
-Paypal: paypal.me/cyberrex599
-Patreon : patreon.com/yehanwasura
-```
