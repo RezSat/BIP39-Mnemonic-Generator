@@ -2198,4 +2198,5 @@ bip39wordlist = [
     "zoo"
 ]
 
-main()
+if __name__ == '__main__':
+    main()
